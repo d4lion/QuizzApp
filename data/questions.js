@@ -1,5 +1,3 @@
-// Todas las preguntas deben ser referentes a viajes y destinos turísticos.
-
 export const preguntas = [
   {
     question: "¿A donde te gustaria ir?",
