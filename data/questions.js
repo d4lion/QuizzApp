@@ -1,3 +1,5 @@
+// Example data for the questions
+
 export const preguntas = [
   {
     question: "¿A donde te gustaria ir?",
